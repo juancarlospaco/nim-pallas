@@ -1,1 +1,4 @@
-nimcache/
+*.log
+*.c
+*.h
+src/palas
