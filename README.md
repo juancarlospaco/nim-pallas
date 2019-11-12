@@ -1,6 +1,6 @@
 # Palas-Cat
 
-Fully automated crossplatform standalone single-file multi-GUI custom installers to install anything anywhere without coding.
+**Fully automated crossplatform standalone single-file multi-GUI custom installers to install anything anywhere without coding.**
 
 
 # FAQ
