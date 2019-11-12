@@ -1,13 +1,13 @@
 # Palas-Cat
 
-- Misterious Mistery.
+- Fully automated crossplatform standalone single-file multi-GUI custom installers without coding to install anything anywhere.
 
 
 # FAQ
 
 - Why not Calamares ?.
 
-Calamares is awesome, but is an installer for Linux Distros only, Palas can install anything anywhere.
+Calamares is awesome, but is an installer for Linux Distros only, Palas can install anything.
 
 - Why not make it compatible with NimInst / InnoSetup ?.
 
