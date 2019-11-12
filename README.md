@@ -2,6 +2,37 @@
 
 Fully automated crossplatform standalone single-file multi-GUI custom installers to install anything anywhere without coding.
 
+![](https://img.shields.io/github/languages/count/juancarlospaco/nim-palas?logoColor=green&style=for-the-badge)
+![](https://img.shields.io/github/languages/top/juancarlospaco/nim-palas?style=for-the-badge)
+![](https://img.shields.io/github/stars/juancarlospaco/nim-palas?style=for-the-badge)
+![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge)
+![](https://img.shields.io/github/languages/code-size/juancarlospaco/nim-palas?style=for-the-badge)
+![](https://img.shields.io/github/issues-raw/juancarlospaco/nim-palas?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/nim-palas?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/juancarlospaco/nim-palas?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/juancarlospaco/nim-palas?style=for-the-badge)
+![](https://img.shields.io/liberapay/patrons/juancarlospaco?style=for-the-badge)
+
+
+# Install
+
+- ???
+
+
+# Requisites
+
+- **None.**
+
+
+# Dependencies
+
+- **None.**
+
+
+## Stars
+
+![Stars over time](https://starchart.cc/juancarlospaco/nim-palas.svg "Star Palas!")
+
 
 # FAQ
 
@@ -35,3 +66,6 @@ Yes.
 - This requires Nim installed ?.
 
 No.
+
+
+[  ⬆️  ⬆️  ⬆️  ⬆️  ](#Palas-Cat "Go to top")
