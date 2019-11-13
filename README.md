@@ -31,7 +31,7 @@ Fully automated crossplatform standalone single-file multi-GUI custom installers
 
 ## Stars
 
-![Stars over time](https://starchart.cc/juancarlospaco/nim-pallas.svg "Star Palas!")
+![Stars over time](https://starchart.cc/juancarlospaco/nim-pallas.svg "Star Pallas!")
 
 
 # FAQ
