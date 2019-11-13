@@ -68,9 +68,8 @@ when isMainModule:
   echo config["welcomeMessage"].getStr.strip
   if config["beforeCommand"].getStr.len > 0: discard execCmdEx(config["beforeCommand"].getStr).exitCode
   let editor = if readLineFromStdin("Choose a Text Editor ? (y/N): ").normalize == "y": readLineFromStdin("Type a Text Editor command: ").strip else: getEnv"EDITOR"
-  var gui: char
-  while gui notin ['t', 'w', 'n', 'y']:
-    gui = char(readLineFromStdin(guiMsg).normalize)
+  var gui: string
+  while gui notin ["t", "w", "n", "y"]: gui = readLineFromStdin(guiMsg).normalize
 
   if isTrueColorSupported(): enableTrueColors()
   setBackgroundColor(bgBlack)
