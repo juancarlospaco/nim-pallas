@@ -1,6 +1,6 @@
 {
   "delay": 9,
-  "welcomeMessage": "Welcome to Palas Cat Installer for Cats!",
+  "welcomeMessage": "Welcome to Pallas Cat Installer for Cats!",
   "log": true,
   "interactive": true,
   "postinstallResume": true,
@@ -24,7 +24,7 @@
   "email": "user@example.com",
   "folder": "/tmp",
   "authors": "Juan Carlos",
-  "name": "Palas",
+  "name": "Pallas",
 
 
   "steps": [

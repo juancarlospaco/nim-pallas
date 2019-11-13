@@ -1,16 +1,16 @@
-# Palas-Cat
+# Pallas-Cat
 
 Fully automated crossplatform standalone single-file multi-GUI custom installers to install anything anywhere without coding.
 
-![](https://img.shields.io/github/languages/count/juancarlospaco/nim-palas?logoColor=green&style=for-the-badge)
-![](https://img.shields.io/github/languages/top/juancarlospaco/nim-palas?style=for-the-badge)
-![](https://img.shields.io/github/stars/juancarlospaco/nim-palas?style=for-the-badge)
+![](https://img.shields.io/github/languages/count/juancarlospaco/nim-pallas?logoColor=green&style=for-the-badge)
+![](https://img.shields.io/github/languages/top/juancarlospaco/nim-pallas?style=for-the-badge)
+![](https://img.shields.io/github/stars/juancarlospaco/nim-pallas?style=for-the-badge)
 ![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge)
-![](https://img.shields.io/github/languages/code-size/juancarlospaco/nim-palas?style=for-the-badge)
-![](https://img.shields.io/github/issues-raw/juancarlospaco/nim-palas?style=for-the-badge)
-![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/nim-palas?style=for-the-badge)
-![](https://img.shields.io/github/commit-activity/y/juancarlospaco/nim-palas?style=for-the-badge)
-![](https://img.shields.io/github/last-commit/juancarlospaco/nim-palas?style=for-the-badge)
+![](https://img.shields.io/github/languages/code-size/juancarlospaco/nim-pallas?style=for-the-badge)
+![](https://img.shields.io/github/issues-raw/juancarlospaco/nim-pallas?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/nim-pallas?style=for-the-badge)
+![](https://img.shields.io/github/commit-activity/y/juancarlospaco/nim-pallas?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/juancarlospaco/nim-pallas?style=for-the-badge)
 ![](https://img.shields.io/liberapay/patrons/juancarlospaco?style=for-the-badge)
 
 
@@ -31,21 +31,21 @@ Fully automated crossplatform standalone single-file multi-GUI custom installers
 
 ## Stars
 
-![Stars over time](https://starchart.cc/juancarlospaco/nim-palas.svg "Star Palas!")
+![Stars over time](https://starchart.cc/juancarlospaco/nim-pallas.svg "Star Palas!")
 
 
 # FAQ
 
 - Why not Calamares ?.
 
-Calamares is awesome, but is an installer for Linux Distros only, Palas can install anything.
+Calamares is awesome, but is an installer for Linux Distros only, Pallas can install anything.
 
 - Why not make it compatible with NimInst / InnoSetup ?.
 
 InnoSetup is awesome, but is more oriented to embed files on the binary and then extract them from itself,
 this is more flexible allowing you to install a whole Linux distro or just wallpapers on Windows,
 this is not designed to not only embed stuff on itself but can produce a tiny binary that runs Bash or PowerShell,
-from the base it works differently in a way that I can not glue with Palas (I tried tho).
+from the base it works differently in a way that I can not glue with Pallas (I tried tho).
 
 - This runs on Windows ?.
 
@@ -68,4 +68,4 @@ Yes.
 No.
 
 
-[  ⬆️  ⬆️  ⬆️  ⬆️  ](#Palas-Cat "Go to top")
+[  ⬆️  ⬆️  ⬆️  ⬆️  ](#Pallas-Cat "Go to top")
