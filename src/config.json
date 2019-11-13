@@ -1,0 +1,62 @@
+{
+  "delay": 9,
+  "welcomeMessage": "Welcome to Palas Cat Installer for Cats!",
+  "log": true,
+  "interactive": true,
+  "postinstallResume": true,
+  "canSuicide": true,
+  "canChooseUI": true,
+  "quitCommand": "echo 'Non-Interactive Command to run at exit.'",
+  "ctrlcCommand": "echo 'Non-Interactive Command to run when the user presses CTRL+C.'",
+  "beforeCommand": "echo 'Non-Interactive Command to run at start BEFORE all steps.'",
+  "afterCommand": "echo 'Non-Interactive Command to run at start AFTER all steps.'",
+  "isBase64": false,
+  "isOnline": false,
+  "mailErrors": "",
+  "mailLogs": "",
+  "gigabytesRequired": 1,
+  "version": 0.1,
+  "web": "https://YourWebsiteHere.com",
+  "chat": "https://YourChatHere.com",
+  "bugs": "https://YourBugTrackerHere.com",
+  "license": "MIT",
+  "sustainability": "",
+  "email": "user@example.com",
+  "folder": "/tmp",
+  "authors": "Juan Carlos",
+  "name": "Palas",
+
+
+  "steps": [
+    {
+      "title": "Prepare for Nim world domination",
+      "description": "foo",
+      "command": "echo 'This is an example output of the first command.'",
+      "help": "This is the help message",
+      "canSkip": true,
+      "canRetry": true,
+      "canQuit": true,
+      "canEdit": true
+    },
+    {
+      "title": "Deploy Nim-powered Smartphones",
+      "description": "foo",
+      "command": "echo 'This is an example output of the second command.'",
+      "help": "This is the help message",
+      "canSkip": true,
+      "canRetry": true,
+      "canEdit": true
+    },
+    {
+      "title": "Pet a Kitten",
+      "description": "foo",
+      "command": "echo 'This is an example output of the third command.'",
+      "help": "This is the help message",
+      "canSkip": true,
+      "canRetry": true,
+      "canEdit": true
+    }
+  ]
+
+
+}
